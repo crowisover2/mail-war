@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">True_Project</string>
+    <string name = "about_back_button">back</string>
+    <string name = "gamedesigner">Game Designer : Galih Aulia Al Hakim 4210161028</string>
+    <string name = "artist">Artist : Thariq Abdul Ilah 4210161018</string>
+    <string name = "programmer">Programmer : M Ray Farandy L 4210161019</string>
+    <string name = "dosenPengampu">Dosen Pengampu : Zulhaidar Fairozal Akbar\nDosen Teknologi Game</string>
+    <string name = "source_code">Thanks to :\nhttps://github.com/cubei/FlappyCow</string>
+    <string name="on_back_press">Press backbutton again to exit</string>
+</resources>
